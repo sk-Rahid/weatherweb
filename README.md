@@ -1,4 +1,10 @@
-[Click here to view live demo]https://sk-rahid.github.io/weatherweb/
- WeatherWeb
-A weather website to  see live weather report
-built using HTML,CSS,JAVASCRIPT & OpenWeatherMap API
+# Weather Web 🌦️
+
+A simple weather application built using HTML, CSS & JavaScript.
+
+[Click here to view live demo](https://sk-rahid.github.io/weatherweb)
+
+## Features
+- Search weather by city
+- Displays temperature, humidity, and conditions
+- Responsive design
